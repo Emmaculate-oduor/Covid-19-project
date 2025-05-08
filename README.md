@@ -31,7 +31,7 @@ Using Python and real-world data, the project produces visualizations and key in
 
 1. **Clone this repository**  
 ```bash
-git clone https://github.com/your-username/covid19-global-tracker.git
+git clone https://github.com/Emmaculate-oduor/covid19-global-tracker.git
 cd covid19-global-tracker
 
 ```
@@ -41,14 +41,14 @@ cd covid19-global-tracker
 pip install pandas matplotlib seaborn plotly
 ```
 ## 3.Download the dataset
-From:`` OWID COVID-19 Data``
+From: OWID COVID-19 Data
 Place the file ```owid-covid-data.csv``` in the ```data/``` folder
 
 ## 4.Launch Jupyter Notebook
 ```
 jupyter notebook notebooks/covid19_global_data_tracker.ipynb
 ```
-✨ Features
+## ✨ Features
 • Time-series line charts of total cases and deaths
 
 • Bar charts comparing total cases and deaths by country
@@ -59,27 +59,27 @@ jupyter notebook notebooks/covid19_global_data_tracker.ipynb
 
 • Narrative insights and key findings
 
-📈 Sample Visualizations
+## 📈 Sample Visualizations
 
-🔍 Key Insights
+## 🔍 Key Insights
  had the fastest vaccination rollout.
 
 Country Y experienced the highest death rate in early 2021.
 
 Cases peaked globally in Month-Year but declined after vaccination campaigns.
 
-🛠️ Requirements
+## 🛠️ Requirements
 Python 3.7+
 
 Jupyter Notebook
 
 Internet connection (for map visualizations)
 
-🙌 Acknowledgments
+## 🙌 Acknowledgments
 Our World in Data for the open COVID-19 dataset
 
 Plotly, Matplotlib, and Seaborn for visualization libraries
 
-📄 License
+## 📄 License
 This project is licensed under the MIT License.
 
